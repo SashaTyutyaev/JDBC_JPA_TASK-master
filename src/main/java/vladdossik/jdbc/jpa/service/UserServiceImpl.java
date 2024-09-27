@@ -3,7 +3,6 @@ package vladdossik.jdbc.jpa.service;
 import lombok.NoArgsConstructor;
 import vladdossik.jdbc.jpa.dao.UserDao;
 import vladdossik.jdbc.jpa.dao.UserDaoHibernateImpl;
-import vladdossik.jdbc.jpa.dao.UserDaoJDBCImpl;
 import vladdossik.jdbc.jpa.model.User;
 
 import java.util.List;

@@ -1,7 +1,5 @@
 package vladdossik.jdbc.jpa;
 
-import vladdossik.jdbc.jpa.dao.UserDao;
-import vladdossik.jdbc.jpa.dao.UserDaoHibernateImpl;
 import vladdossik.jdbc.jpa.model.User;
 import vladdossik.jdbc.jpa.service.UserService;
 import vladdossik.jdbc.jpa.service.UserServiceImpl;

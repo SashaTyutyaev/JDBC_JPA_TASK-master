@@ -1,8 +1,8 @@
+import org.junit.Assert;
+import org.junit.Test;
 import vladdossik.jdbc.jpa.model.User;
 import vladdossik.jdbc.jpa.service.UserService;
 import vladdossik.jdbc.jpa.service.UserServiceImpl;
-import org.junit.Assert;
-import org.junit.Test;
 
 import java.util.List;
 
